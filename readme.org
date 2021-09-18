@@ -1,0 +1,3 @@
+* Clojure Template
+
+  A simple clojure project template.
